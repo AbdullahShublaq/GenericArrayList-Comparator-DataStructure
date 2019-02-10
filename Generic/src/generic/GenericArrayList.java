@@ -9,8 +9,9 @@ import java.util.Arrays;
 
 /**
  *
- * @author jit
+ * @author Abdullah Shublaq
  */
+
 public class GenericArrayList<E> {
 
     private int size = 0;

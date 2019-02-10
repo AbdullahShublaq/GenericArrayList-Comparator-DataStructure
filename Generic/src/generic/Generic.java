@@ -1,5 +1,10 @@
 package generic;
 
+/**
+ *
+ * @author Abdullah Shublaq
+ */
+
 import java.util.ArrayList;
 
 public class Generic<E> {
